@@ -1,0 +1,16 @@
+{
+  "name": "agent-evolution-film",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "description": "《Agent 往前一步，我们往上一层》：讲述 AI Agent 演进与人的价值的手绘风动画。",
+  "scripts": {
+    "sheet": "node render.mjs --sheet=0,1,2,3,4,5 --out=out/sheet.jpg",
+    "video": "node render.mjs --clip --out=out/video.mp4"
+  },
+  "dependencies": {
+    "p5": "^2.3.3",
+    "p5.brush": "^2.2.3",
+    "puppeteer-core": "^25.11.0"
+  }
+}

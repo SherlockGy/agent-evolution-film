@@ -1,0 +1,23 @@
+生成方式：内置 image_gen 工具。
+以下为生成两张标题所用的完整提示词；原图保留于 generated_originals。
+
+title_a 初次生成：
+Use case: illustration-story. Generate ONE standalone PNG title lettering asset for a hand-drawn 2D animated short, canvas landscape exactly 2400 by 600 pixels, aspect ratio 4:1.
+The ONLY text is exactly: Agent 往前一步
+Verbatim sequence: capital A, lowercase g e n t, one normal space, 往 前 一 步. Four Chinese characters, no punctuation or additional text. All on ONE horizontal centered line.
+Style: thick, full rounded hand-lettered children's picture-book / animation poster lettering, standard clearly readable letter and simplified Chinese character structure, subtly wobbly hand-ink contours and very gentle watercolor brush texture confined INSIDE letter fills. Bold block sans serif, not calligraphy, not cursive, no seals, no exaggerated distortion. Flat warm colors like a watercolor-paper animation with an orange box robot, but NO robot or other imagery in this asset.
+Fill all five letters of Agent orange #E07B4F. Fill all four Chinese characters warm cream #FFF5E2. Uniform thick dark ink #2B2233 outline around all strokes, with small crisp hard offset shadow to lower right in the SAME #2B2233. About 12px outline at target size, shadow offset about 8px. No white outer sticker border. Generously weighted strokes. All glyphs same visual weight and consistent line thickness.
+Background: EXACT solid digital flat RGB(255,0,255), #FF00FF everywhere outside lettering including counters. Uniform chroma-key magenta: NO watercolor/paper texture on background, NO gradient, NO lighting, NO shadows except attached crisp glyph extrusion, NO shapes, decoration, stars, doodles, border, caption or watermark.
+Composition: one line centered both horizontally and vertically, approx 8% empty safe margin around canvas; whole lettering fits fully without cropping. Aim glyph group across 84% width. Keep the text comfortably readable. This is first of a matched two-title set.
+
+title_a 画布修正尝试：
+Edit this title lettering asset. Preserve the EXACT existing text "Agent 往前一步", its letter forms, colors, stroke weight, outline and hard down-right shadow. Correct canvas geometry and margins ONLY. REQUIRED OUTPUT CANVAS 2400 x 600 pixels (4:1 aspect ratio, very wide short banner). Crop away excess blank magenta above and below then scale uniformly to fit the full lettering with 8% left and right margin and at least 8% top/bottom. Do not stretch or distort lettering. Set every background pixel to perfectly uniform solid #FF00FF (RGB 255,0,255), including letter counters, no noise or gradients. Only letter fills may have subtle watercolor texture. Single centered horizontal line. Orange #E07B4F "Agent", cream #FFF5E2 "往前一步", dark #2B2233 outline and small hard shadow. No other graphics or text. Exact 4:1 image width:height is essential.
+
+title_b：
+Create the SECOND title in the same animation title lettering set, using the provided first title as exact typography STYLE reference. Replace entire text with exactly:
+我们，往上一层
+Characters in order: 我 / 们 / ， / 往 / 上 / 一 / 层. The comma MUST be Chinese fullwidth comma ，. Six Chinese characters and one comma. No English letters. No other text.
+Match reference's same rounded full heavy hand-drawn block letter style, same weight, identical dark ink #2B2233 outline thickness and small crisp lower-right #2B2233 shadow. Standard simplified Chinese glyph structures, perfectly legible, not calligraphy or cursive, mildly hand-wobbled contours, gentle watercolor brush texture inside fills only.
+Fill ONLY the single character 上 golden yellow #F5C542. Fill 我 们 ， 往 一 层 warm cream #FFF5E2. No orange in this second title. Flat sticker lettering, no white outer border.
+Single horizontal line centered both axes. Landscape short wide banner, requested canvas 2400 x 600 pixels, width:height 4:1. About 8% clear margin at left/right and top/bottom; no cropping of any glyph. Match first image's actual character height and stroke sizes.
+Every pixel of background must be exactly solid pure magenta #FF00FF RGB(255,0,255), including counters. NO gradients, noise, paper texture, shading, glow or other figures. NO robots, decorations, captions or watermark. Watercolor texture exclusively within letter fills.
